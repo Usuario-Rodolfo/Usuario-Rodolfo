@@ -15,13 +15,9 @@
 ### Main skills:
 
 ### Tools:
-![IDLE Python](https://img.shields.io/badge/-IDLE%20Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot&logoColor=00FF00&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 
