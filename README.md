@@ -18,7 +18,6 @@
 - Desenvolvimento Front-End e Back-End (nível iniciante)
 - Computação em Nuvem (conceitos)
 - Internet das Coisas (IoT), Robótica e Testes
-- Eficiência Operacional e Ergonomia (voltado à área industrial - Bosch)
 
 ---
 
